@@ -1,0 +1,15 @@
+# Compiled files
+bin/
+build/
+*.o
+
+# Database
+*.db
+*.sqlite
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
